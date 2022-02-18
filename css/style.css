@@ -83,3 +83,25 @@
 .card-footer{
     background-color: white;
 }
+#banner-2{
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px;
+    border-color: lightgray;
+}
+.background-5{
+    background-color: indianred ;
+    border-radius: 10px;
+}
+.bg-bottom{
+    background-color: aqua;
+    border-radius: 10px;
+}
+#slide{
+    height: 400px;
+}
+#slide h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
