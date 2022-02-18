@@ -93,7 +93,7 @@
     border-radius: 10px;
 }
 .bg-bottom{
-    background-color: aqua;
+    background-color: #60f0f0;
     border-radius: 10px;
 }
 #slide{
@@ -104,4 +104,24 @@
 }
 footer{
     text-align: center;
+}
+.background-6{
+    background-color: rgb(221, 150, 19);
+    border-radius: 10px;
+}
+.background-7{
+    background-color: #864e25;
+    border-radius: 10px;
+}
+.background-8{
+    background-color: #f3ba4f;
+    border-radius: 10px;
+}
+.background-9{
+    background-color: #f17b66;
+    border-radius: 10px;
+}
+.background-10{
+    background-color: #ec8941;
+    border-radius: 10px
 }
